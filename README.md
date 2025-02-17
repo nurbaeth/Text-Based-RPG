@@ -12,7 +12,7 @@ This is a simple text-based role-playing game written in Python. Create your own
 ## How to Play:
 1. The game begins by creating your character and selecting a class.
 2. You will encounter various enemies as you fight through the dungeon.
-3. Each battle will require you to choose whether to attack or flee.
+3. Each battle will require you to choose whether to attack or flee. 
 4. After defeating enemies, you earn gold and experience.
 5. As you level up, your character's health, attack, and defense improve.
 6. Keep fighting, earning experience, and leveling up until you decide to leave the dungeon or your character dies.
