@@ -17,7 +17,7 @@ This is a simple text-based role-playing game written in Python. Create your own
 5. As you level up, your character's health, attack, and defense improve.
 6. Keep fighting, earning experience, and leveling up until you decide to leave the dungeon or your character dies. 
  
-### Example Game Flow:
+### Example Game Flow: 
 
 
 
