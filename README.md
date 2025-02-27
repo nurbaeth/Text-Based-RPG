@@ -19,7 +19,7 @@ This is a simple text-based role-playing game written in Python. Create your own
   
 ### Example Game Flow: 
 
-
+ 
 
 Enter your character's name: Hero Choose your class: warrior
 
