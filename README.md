@@ -26,7 +26,7 @@ Enter your character's name: Hero Choose your class: warrior
 Hero, the warrior, has entered the game! A wild Goblin appeared! Choose an action: attack, flee: attack Hero attacks Goblin for 12 damage. Goblin took 12 damage. Current health: 38 Goblin attacks Hero for 6 damage. Hero took 6 damage. Current health: 94 Hero defeated Goblin! Hero gained 40 gold. Total gold: 40 Hero gained 30 experience. Total experience: 30 ...
 
 
-Commands:
+Commands: 
 attack: Attack the enemy in the current battle.
 flee: Flee from the current battle.
 inventory: View your character's inventory (currently gold).
