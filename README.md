@@ -18,7 +18,7 @@ This is a simple text-based role-playing game written in Python. Create your own
 6. Keep fighting, earning experience, and leveling up until you decide to leave the dungeon or your character dies. 
   
 ### Example Game Flow: 
- 
+  
  
 
 Enter your character's name: Hero Choose your class: warrior
