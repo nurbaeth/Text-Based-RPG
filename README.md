@@ -10,7 +10,7 @@ This is a simple text-based role-playing game written in Python. Create your own
 - Simple text-based interface.
 
 ## How to Play:
-1. The game begins by creating your character and selecting a class.
+1. The game begins by creating your character and selecting a class. 
 2. You will encounter various enemies as you fight through the dungeon. 
 3. Each battle will require you to choose whether to attack or flee.  
 4. After defeating enemies, you earn gold and experience.   
