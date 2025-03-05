@@ -28,7 +28,7 @@ Hero, the warrior, has entered the game! A wild Goblin appeared! Choose an actio
 
 Commands: 
 attack: Attack the enemy in the current battle.
-flee: Flee from the current battle.
+flee: Flee from the current battle. 
 inventory: View your character's inventory (currently gold).
 quit: Quit the game.
 License:
